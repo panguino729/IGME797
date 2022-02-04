@@ -890,3 +890,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.04-00.17.50:404][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.02.04-00.17.51:054][  2]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2022.02.04-00.17.51:718][  4]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.04-00.18.04:444][217]LogSlate: Window 'Source Control Login' being destroyed
+[2022.02.04-00.18.20:830][452]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.04-00.18.22:625][658]LogSlate: Window 'Source Control Login' being destroyed
+[2022.02.04-00.19.00:622][310]LogSlate: Window 'Source Control Login' being destroyed
