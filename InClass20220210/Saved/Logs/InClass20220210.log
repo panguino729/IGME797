@@ -1195,3 +1195,975 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.11-00.21.06:339][494]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
 [2022.02.11-00.21.06:377][495]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
 [2022.02.11-00.21.06:377][495]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.02.11-00.32.50:271][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:271][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:271][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:271][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:271][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:271][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:271][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:271][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:271][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:271][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:271][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:272][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:272][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:272][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:272][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:272][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:272][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:272][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:272][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:272][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:272][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:272][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:272][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:272][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:272][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:272][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.32.50:537][620]EditorErrors: Warning: No assets to check in!
+[2022.02.11-00.39.55:430][733]LogTexture: Display: Building textures: ThumbnailTexture (OODLE_DXT1, 512X512)
+[2022.02.11-00.39.55:430][733]LogTexture: Display: Building textures: T_NoiseNormal_32 (OODLE_BC5, 1024X1024)
+[2022.02.11-00.39.55:430][733]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.11-00.39.55:430][733]LogTexture: Display: Building textures: T_PlasmaSparks_1x4_01 (OODLE_DXT1, 2048X2048)
+[2022.02.11-00.39.55:430][733]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-00.39.55:430][733]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-00.39.55:430][733]LogTexture: Display: Building textures: T_PlasmaSparks_1x4_01_Mask (OODLE_DXT1, 2048X2048)
+[2022.02.11-00.39.55:430][733]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-00.39.55:430][733]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-00.39.55:430][733]LogStaticMesh: Building static mesh SM_PlasmaBallSparks_01...
+[2022.02.11-00.39.55:453][733]LogStaticMesh: Built static mesh [0.02s] /Game/VFX_Toolkit_V1/StaticMeshes/Lightning/SM_PlasmaBallSparks_01.SM_PlasmaBallSparks_01
+[2022.02.11-00.39.55:457][733]LogMaterial: Display: Missing cached shadermap for M_PlasmaBallSparks_01 in PCD3D_SM5, Default, SM5 (DDC key hash: BCCB17BBE93FBCA936CC5AAF5A91FE29379A917E), compiling. 
+[2022.02.11-00.39.55:481][733]LogShaderCompilers: Display: Submitted 56 shader compile jobs with 'Low' priority
+[2022.02.11-00.39.55:489][733]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 56
+[2022.02.11-00.39.55:489][733]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 51
+[2022.02.11-00.39.55:489][733]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 46
+[2022.02.11-00.39.55:489][733]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 41
+[2022.02.11-00.39.55:489][733]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 36
+[2022.02.11-00.39.55:489][733]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 31
+[2022.02.11-00.39.55:490][733]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 26
+[2022.02.11-00.39.55:490][733]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 21
+[2022.02.11-00.39.55:490][733]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2022.02.11-00.39.55:490][733]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 11
+[2022.02.11-00.39.55:490][733]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2022.02.11-00.39.55:490][733]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2022.02.11-00.39.55:490][733]LogShaderCompilers: Display: Started 56 'Local' shader compile jobs with 'Low' priority
+[2022.02.11-00.39.55:490][733]LogStaticMesh: Building static mesh SM_PlasmaBallHull_01...
+[2022.02.11-00.39.55:511][733]LogStaticMesh: Built static mesh [0.02s] /Game/VFX_Toolkit_V1/StaticMeshes/Spheres/SM_PlasmaBallHull_01.SM_PlasmaBallHull_01
+[2022.02.11-00.39.55:519][733]LogMaterial: Display: Missing cached shadermap for M_PlasmaBallGlass_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 9929B6C5DC967D68D470A672BA5EA9DAA016C803), compiling. 
+[2022.02.11-00.39.55:535][733]LogShaderCompilers: Display: Submitted 24 shader compile jobs with 'Low' priority
+[2022.02.11-00.39.55:538][733]LogStaticMesh: Building static mesh SM_PlasmaBallCore_01...
+[2022.02.11-00.39.55:551][733]LogStaticMesh: Built static mesh [0.01s] /Game/VFX_Toolkit_V1/StaticMeshes/Spheres/SM_PlasmaBallCore_01.SM_PlasmaBallCore_01
+[2022.02.11-00.39.55:557][733]LogMaterial: Display: Missing cached shadermap for M_PlasmaBallCore_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 6B74611B9B3D4027387ADDFCE721C171C0BE88D8), compiling. 
+[2022.02.11-00.39.55:568][733]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.02.11-00.39.56:063][746]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2022.02.11-00.39.56:063][746]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.39.56:066][746]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.11-00.39.56:066][746]LogShaderCompilers: Display: Total job queries 336, among them cache hits 0 (0.00%)
+[2022.02.11-00.39.56:066][746]LogShaderCompilers: Display: Tracking 245 distinct input hashes that result in 119 distinct outputs (48.57%)
+[2022.02.11-00.39.56:066][746]LogShaderCompilers: Display: RAM used: 0.50 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2022.02.11-00.39.56:066][746]LogShaderCompilers: Display: ================================================
+[2022.02.11-00.39.56:489][764]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2022.02.11-00.39.56:489][764]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.39.56:802][774]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2022.02.11-00.39.56:802][774]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.39.57:005][777]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2022.02.11-00.39.57:005][777]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.39.57:005][777]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2022.02.11-00.39.57:005][777]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.39.57:120][779]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2022.02.11-00.39.57:120][779]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.39.57:186][780]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2022.02.11-00.39.57:186][780]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.39.57:341][788]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.02.11-00.39.57:342][788]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.39.57:384][790]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 28
+[2022.02.11-00.39.57:384][790]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.39.57:469][796]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 25
+[2022.02.11-00.39.57:469][796]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.39.57:521][799]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 22
+[2022.02.11-00.39.57:522][799]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.39.57:604][805]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 20
+[2022.02.11-00.39.57:604][805]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 18
+[2022.02.11-00.39.57:604][805]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.39.57:624][806]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2022.02.11-00.39.57:624][806]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.39.57:624][806]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2022.02.11-00.39.57:624][806]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.39.57:701][810]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2022.02.11-00.39.57:701][810]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.39.57:789][815]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2022.02.11-00.39.57:789][815]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.39.57:876][820]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2022.02.11-00.39.57:876][820]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.39.58:020][827]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.02.11-00.39.58:020][827]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.39.58:107][832]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2022.02.11-00.39.58:107][832]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.39.58:107][832]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2022.02.11-00.39.58:107][832]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.39.58:143][834]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2022.02.11-00.39.58:143][834]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.39.58:196][837]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2022.02.11-00.39.58:196][837]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.39.58:196][837]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2022.02.11-00.39.58:196][837]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.39.58:221][839]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2022.02.11-00.39.58:221][839]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.39.58:236][840]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2022.02.11-00.39.58:236][840]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.40.02:967][392]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.11-00.40.02:979][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-00.40.02:982][392]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 10, 2022, 2:40:02 PM)
+[2022.02.11-00.40.02:984][392]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.11-00.40.02:985][392]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.11-00.40.02:986][392]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.02.11-00.40.03:000][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013244s)
+[2022.02.11-00.40.03:001][392]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.02.11-00.40.03:002][392]LogPlayLevel: PIE: World Init took: (0.001694s)
+[2022.02.11-00.40.03:002][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015615s)
+[2022.02.11-00.40.03:013][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.02.11-00.40.03:019][392]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.02.11-00.40.03:019][392]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-00.40.03:019][392]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-00.40.03:019][392]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-00.40.03:019][392]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-00.40.03:019][392]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-00.40.03:019][392]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-00.40.03:019][392]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-00.40.03:019][392]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-00.40.03:019][392]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.11-00.40.03:019][392]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.11-00.40.03:019][392]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.11-00.40.03:019][392]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-00.40.03:029][392]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-00.40.03:029][392]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-00.40.03:039][392]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2022.02.11-00.40.03:039][392]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-00.40.03:039][392]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-00.40.03:039][392]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-00.40.03:040][392]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-00.40.03:040][392]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.11-00.40.03:040][392]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.11-00.40.03:041][392]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.11-00.40.03:041][392]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.11-00.40.03:041][392]LogInit: FAudioDevice initialized.
+[2022.02.11-00.40.03:041][392]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2022.02.11-00.40.03:064][392]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.11-00.40.03:072][392]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.02.10-19.40.03
+[2022.02.11-00.40.03:074][392]LogWorld: Bringing up level for play took: 0.003390
+[2022.02.11-00.40.03:075][392]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2022.02.11-00.40.03:089][392]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.02.11-00.40.03:091][392]PIE: Server logged in
+[2022.02.11-00.40.03:094][392]PIE: Play in editor total start time 0.117 seconds.
+[2022.02.11-00.40.13:071][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-00.40.13:071][529]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.02.11-00.40.13:072][529]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-00.40.13:072][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-00.40.13:078][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-00.40.13:087][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-00.40.13:092][529]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.11-00.40.13:092][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-00.40.13:093][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-00.40.13:096][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-00.40.13:098][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.02.11-00.40.13:138][530]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.02.11-00.40.16:505][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.02.11-00.40.17:593][911]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220210/Saved/ThirdPersonExampleMapDE94AFFD48C73388A481FD98F145CC56.tmp' to 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220210/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.02.11-00.40.18:125][911]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220210/Saved/ThirdPersonExampleMap_BuiltDataD6FA9FAF4B5A4D9F44FBFE80CB8E0616.tmp' to 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220210/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.02.11-00.40.18:155][911]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.11-00.40.18:155][911]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.02.11-00.40.18:155][911]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.02.11-00.40.20:950][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:950][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:950][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:950][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:950][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:950][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:950][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:950][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:951][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:951][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:951][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:951][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:951][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:951][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:951][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:951][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:951][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:951][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:951][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:951][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:951][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:951][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:951][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:951][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:951][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.20:951][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.40.21:370][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.02.11-00.40.22:556][190]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220210/Saved/ThirdPersonExampleMap2D0A59EE4CBB880796951EA61B7382E9.tmp' to 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220210/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.02.11-00.40.22:601][190]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.235
+[2022.02.11-00.40.42:406][190]LogSlate: Window 'Submit Files' being destroyed
+[2022.02.11-00.40.44:398][190]LogSourceControl: commit successful: [main 7567631] Added Plasma Ball Particle Systems to scene
+[2022.02.11-00.40.44:595][190]SourceControl: [main 7567631] Added Plasma Ball Particle Systems to scene
+[2022.02.11-00.40.44:595][190]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2022.02.11-00.40.44:599][190]SourceControl: Commited [main 7567631] Added Plasma Ball Particle Systems to scene.
+[2022.02.11-00.40.44:642][191]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.02.11-00.40.44:642][191]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.02.11-00.41.34:934][153]LogTexture: Display: Building textures: ThumbnailTexture (OODLE_DXT1, 512X512)
+[2022.02.11-00.41.34:934][153]LogStaticMesh: Building static mesh SM_RainBlowcloud_01...
+[2022.02.11-00.41.34:951][153]LogTexture: Display: Building textures: T_LParticle_Clouds_Masks_01 (OODLE_DXT1, 512X512)
+[2022.02.11-00.41.34:961][153]LogTexture: Display: Building textures: T_Rainbow_01 (OODLE_DXT1, 2048X2048)
+[2022.02.11-00.41.34:963][153]LogTexture: Display: Building textures: T_RainBlow_M (OODLE_DXT1, 1024X1024)
+[2022.02.11-00.41.34:969][153]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-00.41.34:969][153]LogStaticMesh: Built static mesh [0.04s] /Game/VFX_Toolkit_V1/StaticMeshes/Stylized/SM_RainBlowcloud_01.SM_RainBlowcloud_01
+[2022.02.11-00.41.34:992][153]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-00.41.34:992][153]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-00.41.34:992][153]LogStaticMesh: Building static mesh SM_RainBlowcloud_02...
+[2022.02.11-00.41.35:006][153]LogStaticMesh: Built static mesh [0.02s] /Game/VFX_Toolkit_V1/StaticMeshes/Stylized/SM_RainBlowcloud_02.SM_RainBlowcloud_02
+[2022.02.11-00.41.35:016][153]LogTexture: Display: Building textures: T_NoiseNormal_1 (OODLE_BC5, 512X512)
+[2022.02.11-00.41.35:016][153]LogMaterial: Display: Missing cached shadermap for M_RainBlowCloud_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 6B90FBFA982418E73D294059A3B09395CDB8098E), compiling. 
+[2022.02.11-00.41.35:074][153]LogShaderCompilers: Display: Submitted 52 shader compile jobs with 'Low' priority
+[2022.02.11-00.41.35:075][153]LogStaticMesh: Building static mesh SM_RainBlow_01...
+[2022.02.11-00.41.35:084][153]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 52
+[2022.02.11-00.41.35:084][153]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 47
+[2022.02.11-00.41.35:084][153]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 42
+[2022.02.11-00.41.35:084][153]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 37
+[2022.02.11-00.41.35:084][153]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 32
+[2022.02.11-00.41.35:084][153]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 27
+[2022.02.11-00.41.35:084][153]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 22
+[2022.02.11-00.41.35:084][153]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2022.02.11-00.41.35:084][153]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 12
+[2022.02.11-00.41.35:084][153]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2022.02.11-00.41.35:084][153]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2022.02.11-00.41.35:084][153]LogShaderCompilers: Display: Started 52 'Local' shader compile jobs with 'Low' priority
+[2022.02.11-00.41.35:088][153]LogStaticMesh: Built static mesh [0.01s] /Game/VFX_Toolkit_V1/StaticMeshes/Stylized/SM_RainBlow_01.SM_RainBlow_01
+[2022.02.11-00.41.35:092][153]LogMaterial: Display: Missing cached shadermap for M_RainBlow_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 4122A9DC1A03A9C48E33F01F74D0A7F45376B2F7), compiling. 
+[2022.02.11-00.41.35:124][153]LogShaderCompilers: Display: Submitted 56 shader compile jobs with 'Low' priority
+[2022.02.11-00.41.35:137][153]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 56
+[2022.02.11-00.41.35:137][153]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.02.11-00.41.35:767][186]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2022.02.11-00.41.35:767][186]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.41.35:983][197]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.02.11-00.41.35:983][197]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.41.36:130][199]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.02.11-00.41.36:131][199]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.41.36:241][201]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2022.02.11-00.41.36:241][201]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.41.36:351][203]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.02.11-00.41.36:351][203]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.41.36:460][204]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 46
+[2022.02.11-00.41.36:460][204]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 42
+[2022.02.11-00.41.36:460][204]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.36:460][204]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 38
+[2022.02.11-00.41.36:460][204]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.36:525][205]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 34
+[2022.02.11-00.41.36:525][205]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.36:726][208]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 31
+[2022.02.11-00.41.36:726][208]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.36:788][211]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 28
+[2022.02.11-00.41.36:788][211]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.36:855][214]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 25
+[2022.02.11-00.41.36:855][214]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.36:954][219]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 22
+[2022.02.11-00.41.36:954][219]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.37:121][228]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 20
+[2022.02.11-00.41.37:121][228]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.37:172][231]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 18
+[2022.02.11-00.41.37:172][231]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.37:190][232]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 16
+[2022.02.11-00.41.37:190][232]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.37:375][243]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 14
+[2022.02.11-00.41.37:375][243]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.37:580][254]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 12
+[2022.02.11-00.41.37:580][254]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.37:630][257]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2022.02.11-00.41.37:630][257]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.37:689][260]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 9
+[2022.02.11-00.41.37:689][260]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.37:710][261]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2022.02.11-00.41.37:710][261]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.37:807][267]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2022.02.11-00.41.37:807][267]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.37:807][267]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2022.02.11-00.41.37:807][267]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.37:830][268]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2022.02.11-00.41.37:830][268]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.37:849][269]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.02.11-00.41.37:849][269]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.37:880][271]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2022.02.11-00.41.37:880][271]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.37:925][274]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.02.11-00.41.37:925][274]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.37:939][275]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2022.02.11-00.41.37:939][275]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.41.43:973][960]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.11-00.41.43:982][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-00.41.43:982][960]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 10, 2022, 2:41:43 PM)
+[2022.02.11-00.41.44:008][960]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.02.11-00.41.44:019][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011203s)
+[2022.02.11-00.41.44:020][960]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.02.11-00.41.44:021][960]LogPlayLevel: PIE: World Init took: (0.001449s)
+[2022.02.11-00.41.44:021][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012816s)
+[2022.02.11-00.41.44:036][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.02.11-00.41.44:040][960]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.02.11-00.41.44:040][960]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-00.41.44:040][960]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-00.41.44:040][960]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-00.41.44:040][960]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-00.41.44:040][960]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-00.41.44:040][960]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-00.41.44:040][960]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-00.41.44:040][960]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-00.41.44:041][960]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.11-00.41.44:041][960]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.11-00.41.44:041][960]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.11-00.41.44:041][960]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-00.41.44:049][960]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-00.41.44:049][960]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-00.41.44:058][960]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2022.02.11-00.41.44:058][960]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-00.41.44:058][960]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-00.41.44:058][960]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-00.41.44:059][960]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-00.41.44:059][960]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.11-00.41.44:059][960]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.11-00.41.44:060][960]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.11-00.41.44:060][960]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.11-00.41.44:060][960]LogInit: FAudioDevice initialized.
+[2022.02.11-00.41.44:060][960]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2022.02.11-00.41.44:069][960]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.11-00.41.44:071][960]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.02.10-19.41.44
+[2022.02.11-00.41.44:072][960]LogWorld: Bringing up level for play took: 0.001749
+[2022.02.11-00.41.44:072][960]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.02.11-00.41.44:074][960]PIE: Server logged in
+[2022.02.11-00.41.44:074][960]PIE: Play in editor total start time 0.093 seconds.
+[2022.02.11-00.41.55:559][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-00.41.55:559][329]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.02.11-00.41.55:559][329]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-00.41.55:560][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-00.41.55:571][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-00.41.55:580][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-00.41.55:584][329]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.11-00.41.55:584][329]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-00.41.55:585][329]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-00.41.55:587][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-00.41.55:589][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.02.11-00.41.55:636][330]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.02.11-00.41.56:771][460]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.11-00.41.56:779][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-00.41.56:779][460]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 10, 2022, 2:41:56 PM)
+[2022.02.11-00.41.56:808][460]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.02.11-00.41.56:819][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010910s)
+[2022.02.11-00.41.56:820][460]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.02.11-00.41.56:820][460]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2022.02.11-00.41.56:821][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012193s)
+[2022.02.11-00.41.56:827][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.02.11-00.41.56:828][460]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.02.11-00.41.56:828][460]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-00.41.56:828][460]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-00.41.56:828][460]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-00.41.56:828][460]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-00.41.56:828][460]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-00.41.56:828][460]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-00.41.56:828][460]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-00.41.56:828][460]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-00.41.56:828][460]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.11-00.41.56:828][460]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.11-00.41.56:828][460]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.11-00.41.56:829][460]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-00.41.56:839][460]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-00.41.56:839][460]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-00.41.56:849][460]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2022.02.11-00.41.56:849][460]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-00.41.56:849][460]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-00.41.56:849][460]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-00.41.56:849][460]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-00.41.56:849][460]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.11-00.41.56:849][460]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.11-00.41.56:850][460]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.11-00.41.56:850][460]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.11-00.41.56:850][460]LogInit: FAudioDevice initialized.
+[2022.02.11-00.41.56:850][460]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2022.02.11-00.41.56:860][460]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.11-00.41.56:862][460]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.02.10-19.41.56
+[2022.02.11-00.41.56:863][460]LogWorld: Bringing up level for play took: 0.001726
+[2022.02.11-00.41.56:863][460]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.02.11-00.41.56:865][460]PIE: Server logged in
+[2022.02.11-00.41.56:866][460]PIE: Play in editor total start time 0.087 seconds.
+[2022.02.11-00.42.00:989][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-00.42.00:989][948]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.02.11-00.42.00:989][948]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-00.42.00:989][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-00.42.01:002][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-00.42.01:010][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-00.42.01:018][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-00.42.01:018][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-00.42.01:019][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-00.42.01:023][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.02.11-00.42.01:066][949]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.02.11-00.42.02:711][144]LogEditorViewport: Clicking on Actor (LMB): Emitter (Par_RainBlow_01)
+[2022.02.11-00.42.03:639][254]Cmd: DELETE
+[2022.02.11-00.42.03:639][254]Cmd: ACTOR DELETE
+[2022.02.11-00.42.03:650][254]LogEditorActor: Deleted Actor: Emitter
+[2022.02.11-00.42.03:654][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.11-00.42.03:656][254]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.02.11-00.42.06:493][553]LogTexture: Display: Building textures: T_Paralaxia_BFlats2_01 (OODLE_AutoDXT, 1024X1024)
+[2022.02.11-00.42.06:493][553]LogTexture: Display: Building textures: T_Paralaxia_Random_01 (OODLE_AutoDXT, 1024X1024)
+[2022.02.11-00.42.06:493][553]LogTexture: Display: Building textures: ThumbnailTexture (OODLE_DXT1, 512X512)
+[2022.02.11-00.42.06:493][553]LogTexture: Display: Building textures: T_Paralaxia_Flats1_01 (OODLE_AutoDXT, 1024X1024)
+[2022.02.11-00.42.06:493][553]LogTexture: Display: Building textures: T_Paralaxia_Flats2_01 (OODLE_AutoDXT, 1024X1024)
+[2022.02.11-00.42.06:493][553]LogTexture: Display: Building textures: T_Paralaxia_Flats3_01 (OODLE_AutoDXT, 1024X1024)
+[2022.02.11-00.42.06:493][553]LogTexture: Display: Building textures: T_Paralaxia_Clouds_01 (OODLE_AutoDXT, 1024X1024)
+[2022.02.11-00.42.06:493][553]LogTexture: Display: Building textures: T_Paralaxia_Flats4_01 (OODLE_AutoDXT, 1024X1024)
+[2022.02.11-00.42.06:493][553]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-00.42.06:493][553]LogTexture: Display: Building textures: T_Paralaxia_BFlats1_01 (OODLE_AutoDXT, 1024X1024)
+[2022.02.11-00.42.06:493][553]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.11-00.42.06:493][553]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.11-00.42.06:493][553]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.11-00.42.06:493][553]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.11-00.42.06:493][553]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.11-00.42.06:493][553]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-00.42.06:493][553]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-00.42.06:493][553]LogMaterial: Display: Missing cached shadermap for M_Paralexia_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 34AA96AE86BD322296B2E566FCFBD8C817F1E874), compiling. 
+[2022.02.11-00.42.06:536][553]LogShaderCompilers: Display: Submitted 78 shader compile jobs with 'Low' priority
+[2022.02.11-00.42.06:537][553]LogMaterial: Display: Missing cached shadermap for MI_Paralexia_02cRandoms in PCD3D_SM5, Default, SM5 (DDC key hash: 5F49D1AFE4F05133E036ECEF0924EF630ADF0980), compiling. 
+[2022.02.11-00.42.06:573][553]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 78
+[2022.02.11-00.42.06:573][553]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 71
+[2022.02.11-00.42.06:573][553]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 64
+[2022.02.11-00.42.06:573][553]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 57
+[2022.02.11-00.42.06:573][553]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 50
+[2022.02.11-00.42.06:573][553]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 43
+[2022.02.11-00.42.06:573][553]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 36
+[2022.02.11-00.42.06:573][553]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 29
+[2022.02.11-00.42.06:573][553]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 22
+[2022.02.11-00.42.06:573][553]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2022.02.11-00.42.06:573][553]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2022.02.11-00.42.06:573][553]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2022.02.11-00.42.06:573][553]LogShaderCompilers: Display: Started 78 'Local' shader compile jobs with 'Low' priority
+[2022.02.11-00.42.06:573][553]LogShaderCompilers: Display: Submitted 78 shader compile jobs with 'Low' priority
+[2022.02.11-00.42.06:576][553]LogMaterial: Display: Missing cached shadermap for M_Paralexia_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 3F7AD1F0BBE2907CA0C571589F401E68D03D43A1), compiling. 
+[2022.02.11-00.42.06:628][553]LogShaderCompilers: Display: Submitted 78 shader compile jobs with 'Low' priority
+[2022.02.11-00.42.07:094][582]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 156
+[2022.02.11-00.42.07:094][582]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.02.11-00.42.08:516][635]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2022.02.11-00.42.08:517][635]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.42.08:564][638]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2022.02.11-00.42.08:565][638]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.42.08:578][639]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 11
+[2022.02.11-00.42.08:578][639]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.42.08:670][645]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2022.02.11-00.42.08:670][645]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.42.08:783][651]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2022.02.11-00.42.08:784][651]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.42.08:799][652]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2022.02.11-00.42.08:799][652]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.42.08:821][653]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2022.02.11-00.42.08:821][653]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.42.08:900][658]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2022.02.11-00.42.08:900][658]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.42.08:990][664]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2022.02.11-00.42.08:990][664]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.42.09:011][665]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2022.02.11-00.42.09:011][665]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.42.09:219][677]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.02.11-00.42.09:219][677]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.42.09:239][678]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.02.11-00.42.09:240][678]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.42.09:402][688]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.02.11-00.42.09:402][688]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.42.09:433][690]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 131
+[2022.02.11-00.42.09:433][690]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 121
+[2022.02.11-00.42.09:433][690]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.09:515][694]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 111
+[2022.02.11-00.42.09:515][694]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.09:660][701]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 101
+[2022.02.11-00.42.09:660][701]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.09:694][703]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 92
+[2022.02.11-00.42.09:694][703]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.09:709][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 84
+[2022.02.11-00.42.09:709][704]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.09:819][712]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 76
+[2022.02.11-00.42.09:820][712]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 69
+[2022.02.11-00.42.09:820][712]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.10:009][724]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 62
+[2022.02.11-00.42.10:009][724]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.10:199][733]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 56
+[2022.02.11-00.42.10:199][733]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.10:614][755]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 51
+[2022.02.11-00.42.10:614][755]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.11:706][819]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 46
+[2022.02.11-00.42.11:706][819]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.11:728][820]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 42
+[2022.02.11-00.42.11:728][820]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.11:778][822]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 38
+[2022.02.11-00.42.11:778][822]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.11:801][823]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 34
+[2022.02.11-00.42.11:801][823]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.11:892][827]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 31
+[2022.02.11-00.42.11:892][827]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.11:974][831]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 28
+[2022.02.11-00.42.11:974][831]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 25
+[2022.02.11-00.42.11:974][831]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.12:092][837]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 22
+[2022.02.11-00.42.12:092][837]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.12:383][854]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 20
+[2022.02.11-00.42.12:383][854]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.12:549][863]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2022.02.11-00.42.12:549][863]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.12:579][865]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2022.02.11-00.42.12:579][865]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.12:782][877]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 14
+[2022.02.11-00.42.12:782][877]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.12:801][878]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2022.02.11-00.42.12:801][878]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.12:843][881]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2022.02.11-00.42.12:843][881]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.12:843][881]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2022.02.11-00.42.12:843][881]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.12:891][884]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2022.02.11-00.42.12:891][884]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2022.02.11-00.42.12:891][884]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.12:993][889]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2022.02.11-00.42.12:993][889]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.13:029][891]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.02.11-00.42.13:029][891]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.13:073][894]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2022.02.11-00.42.13:073][894]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.13:101][896]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.02.11-00.42.13:101][896]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.13:122][897]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2022.02.11-00.42.13:122][897]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.13:228][903]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.02.11-00.42.13:228][903]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.42.32:309][154]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.11-00.42.32:319][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-00.42.32:319][154]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 10, 2022, 2:42:32 PM)
+[2022.02.11-00.42.32:349][154]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.02.11-00.42.32:361][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012408s)
+[2022.02.11-00.42.32:362][154]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.02.11-00.42.32:363][154]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2022.02.11-00.42.32:363][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013995s)
+[2022.02.11-00.42.32:383][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.02.11-00.42.32:393][154]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.02.11-00.42.32:394][154]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-00.42.32:394][154]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-00.42.32:394][154]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-00.42.32:394][154]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-00.42.32:394][154]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-00.42.32:394][154]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-00.42.32:394][154]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-00.42.32:394][154]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-00.42.32:394][154]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.11-00.42.32:394][154]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.11-00.42.32:394][154]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.11-00.42.32:394][154]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-00.42.32:403][154]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-00.42.32:403][154]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-00.42.32:412][154]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2022.02.11-00.42.32:412][154]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-00.42.32:412][154]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-00.42.32:412][154]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-00.42.32:412][154]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-00.42.32:412][154]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.11-00.42.32:412][154]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.11-00.42.32:414][154]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.11-00.42.32:414][154]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.11-00.42.32:414][154]LogInit: FAudioDevice initialized.
+[2022.02.11-00.42.32:414][154]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2022.02.11-00.42.32:423][154]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.11-00.42.32:424][154]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.02.10-19.42.32
+[2022.02.11-00.42.32:425][154]LogWorld: Bringing up level for play took: 0.001799
+[2022.02.11-00.42.32:425][154]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.02.11-00.42.32:427][154]PIE: Server logged in
+[2022.02.11-00.42.32:428][154]PIE: Play in editor total start time 0.11 seconds.
+[2022.02.11-00.42.45:510][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-00.42.45:510][717]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.02.11-00.42.45:510][717]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-00.42.45:510][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-00.42.45:521][717]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-00.42.45:529][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-00.42.45:533][717]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.11-00.42.45:533][717]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-00.42.45:534][717]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-00.42.45:536][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-00.42.45:538][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.02.11-00.42.45:593][718]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.02.11-00.42.55:522][845]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.02.11-00.43.01:598][545]LogEditorViewport: Clicking on Actor (LMB): Emitter (Par_Paralexia_01)
+[2022.02.11-00.43.03:555][760]LogSlate: Took 0.004763 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.11-00.43.34:779][442]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.11-00.43.34:788][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-00.43.34:788][442]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 10, 2022, 2:43:34 PM)
+[2022.02.11-00.43.34:788][442]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.02.11-00.43.34:801][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012106s)
+[2022.02.11-00.43.34:802][442]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.02.11-00.43.34:802][442]LogPlayLevel: PIE: World Init took: (0.001405s)
+[2022.02.11-00.43.34:802][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013651s)
+[2022.02.11-00.43.34:808][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.02.11-00.43.34:811][442]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.02.11-00.43.34:811][442]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-00.43.34:811][442]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-00.43.34:811][442]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-00.43.34:811][442]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-00.43.34:811][442]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-00.43.34:811][442]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-00.43.34:811][442]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-00.43.34:811][442]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-00.43.34:812][442]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.11-00.43.34:812][442]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.11-00.43.34:812][442]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.11-00.43.34:812][442]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-00.43.34:822][442]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-00.43.34:822][442]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-00.43.34:831][442]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2022.02.11-00.43.34:831][442]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-00.43.34:831][442]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-00.43.34:831][442]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-00.43.34:832][442]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-00.43.34:832][442]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.11-00.43.34:832][442]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.11-00.43.34:833][442]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.11-00.43.34:833][442]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.11-00.43.34:833][442]LogInit: FAudioDevice initialized.
+[2022.02.11-00.43.34:833][442]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonExampleMap'.
+[2022.02.11-00.43.34:840][442]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.11-00.43.34:842][442]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.02.10-19.43.34
+[2022.02.11-00.43.34:843][442]LogWorld: Bringing up level for play took: 0.001724
+[2022.02.11-00.43.34:843][442]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.02.11-00.43.34:845][442]PIE: Server logged in
+[2022.02.11-00.43.34:845][442]PIE: Play in editor total start time 0.057 seconds.
+[2022.02.11-00.43.56:249][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-00.43.56:249][  1]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.02.11-00.43.56:249][  1]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-00.43.56:250][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-00.43.56:258][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-00.43.56:267][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-00.43.56:271][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-00.43.56:271][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-00.43.56:273][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-00.43.56:276][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.02.11-00.43.56:331][  2]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.02.11-00.44.01:486][578]LogEditorViewport: Clicking on Actor (LMB): Emitter (Par_Paralexia_01)
+[2022.02.11-00.44.02:191][661]Cmd: DELETE
+[2022.02.11-00.44.02:191][661]Cmd: ACTOR DELETE
+[2022.02.11-00.44.02:193][661]LogEditorActor: Deleted Actor: Emitter
+[2022.02.11-00.44.02:198][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.02.11-00.44.02:200][661]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.02.11-00.44.14:009][967]LogTexture: Display: Building textures: ThumbnailTexture (OODLE_DXT1, 512X512)
+[2022.02.11-00.44.14:010][967]LogTexture: Display: Building textures: T_WildImpact_Ring_01 (OODLE_DXT1, 1024X1024)
+[2022.02.11-00.44.14:010][967]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-00.44.14:010][967]LogTexture: Display: Building textures: T_Random_02 (OODLE_BC4, 1024X1024)
+[2022.02.11-00.44.14:010][967]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2022.02.11-00.44.14:010][967]LogMaterial: Display: Missing cached shadermap for M_wildImpactRing_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 200943F29EF7608278521272B2ADEC6618140DE9), compiling. 
+[2022.02.11-00.44.14:027][967]LogTexture: Display: Building textures: T_WildImpact_01 (OODLE_DXT1, 2048X2048)
+[2022.02.11-00.44.14:027][967]LogShaderCompilers: Display: Submitted 36 shader compile jobs with 'Low' priority
+[2022.02.11-00.44.14:128][967]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 36
+[2022.02.11-00.44.14:128][967]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 32
+[2022.02.11-00.44.14:128][967]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 28
+[2022.02.11-00.44.14:128][967]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 24
+[2022.02.11-00.44.14:128][967]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2022.02.11-00.44.14:128][967]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2022.02.11-00.44.14:128][967]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 12
+[2022.02.11-00.44.14:128][967]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2022.02.11-00.44.14:128][967]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2022.02.11-00.44.14:128][967]LogShaderCompilers: Display: Started 36 'Local' shader compile jobs with 'Low' priority
+[2022.02.11-00.44.14:128][967]LogTexture: Display: Building textures: T_WildImpact_Mask_01 (OODLE_DXT1, 2048X2048)
+[2022.02.11-00.44.14:128][967]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-00.44.14:128][967]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-00.44.14:128][967]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-00.44.14:128][967]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-00.44.14:128][967]LogStaticMesh: Building static mesh SM_WildImpact_01...
+[2022.02.11-00.44.14:153][967]LogStaticMesh: Built static mesh [0.02s] /Game/VFX_Toolkit_V1/StaticMeshes/Impact/SM_WildImpact_01.SM_WildImpact_01
+[2022.02.11-00.44.14:159][967]LogMaterial: Display: Missing cached shadermap for M_WildImpact_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 4C20B6B733F3C6AA6E103BE390A604FFB6C3250E), compiling. 
+[2022.02.11-00.44.14:187][967]LogShaderCompilers: Display: Submitted 56 shader compile jobs with 'Low' priority
+[2022.02.11-00.44.14:190][967]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 56
+[2022.02.11-00.44.14:190][967]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 51
+[2022.02.11-00.44.14:190][967]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 46
+[2022.02.11-00.44.14:190][967]LogShaderCompilers: Display: Started 15 'Local' shader compile jobs with 'Low' priority
+[2022.02.11-00.44.15:332][ 30]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.02.11-00.44.15:332][ 30]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.02.11-00.44.15:332][ 30]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.44.15:339][ 30]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.11-00.44.15:339][ 30]LogShaderCompilers: Display: Total job queries 780, among them cache hits 10 (1.28%)
+[2022.02.11-00.44.15:339][ 30]LogShaderCompilers: Display: Tracking 686 distinct input hashes that result in 345 distinct outputs (50.29%)
+[2022.02.11-00.44.15:339][ 30]LogShaderCompilers: Display: RAM used: 1.27 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.08%
+[2022.02.11-00.44.15:339][ 30]LogShaderCompilers: Display: ================================================
+[2022.02.11-00.44.15:434][ 32]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2022.02.11-00.44.15:435][ 32]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.44.15:552][ 33]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2022.02.11-00.44.15:552][ 33]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.44.15:598][ 34]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 37
+[2022.02.11-00.44.15:598][ 34]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.15:768][ 37]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 33
+[2022.02.11-00.44.15:768][ 37]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.15:768][ 37]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 30
+[2022.02.11-00.44.15:768][ 37]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.15:849][ 42]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 27
+[2022.02.11-00.44.15:849][ 42]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.15:970][ 49]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2022.02.11-00.44.15:970][ 49]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.16:185][ 63]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 21
+[2022.02.11-00.44.16:186][ 63]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.16:366][ 75]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2022.02.11-00.44.16:366][ 75]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 17
+[2022.02.11-00.44.16:366][ 75]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2022.02.11-00.44.16:366][ 75]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.16:408][ 77]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2022.02.11-00.44.16:408][ 77]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.16:426][ 78]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 11
+[2022.02.11-00.44.16:426][ 78]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.16:611][ 87]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2022.02.11-00.44.16:611][ 87]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.16:668][ 89]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 9
+[2022.02.11-00.44.16:668][ 89]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.16:670][ 89]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2022.02.11-00.44.16:670][ 89]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.16:749][ 92]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 7
+[2022.02.11-00.44.16:749][ 92]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.16:792][ 95]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 6
+[2022.02.11-00.44.16:792][ 95]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.16:848][ 99]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2022.02.11-00.44.16:848][ 99]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.16:848][ 99]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.02.11-00.44.16:848][ 99]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2022.02.11-00.44.16:849][ 99]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.16:868][100]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2022.02.11-00.44.16:868][100]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.16:885][101]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.02.11-00.44.16:885][101]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.19:864][376]LogTexture: Display: Building textures: ThumbnailTexture (OODLE_DXT1, 512X512)
+[2022.02.11-00.44.19:864][376]LogStaticMesh: Building static mesh SM_VoltCore_03...
+[2022.02.11-00.44.19:878][376]LogTexture: Display: Building textures: T_NoiseNormal_81 (OODLE_BC5, 1024X1024)
+[2022.02.11-00.44.19:878][376]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.11-00.44.19:887][376]LogStaticMesh: Built static mesh [0.02s] /Game/VFX_Toolkit_V1/StaticMeshes/Rings/SM_VoltCore_03.SM_VoltCore_03
+[2022.02.11-00.44.19:896][376]LogTexture: Display: Building textures: T_NoiseNormal_21 (OODLE_BC5, 1024X1024)
+[2022.02.11-00.44.19:896][376]LogStaticMesh: Building static mesh SM_VoltCore_05...
+[2022.02.11-00.44.19:911][376]LogTexture: Display: Building textures: T_VoltCoreMasks_01 (OODLE_DXT1, 2048X2048)
+[2022.02.11-00.44.19:911][376]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.11-00.44.19:924][376]LogStaticMesh: Built static mesh [0.03s] /Game/VFX_Toolkit_V1/StaticMeshes/Rings/SM_VoltCore_05.SM_VoltCore_05
+[2022.02.11-00.44.19:934][376]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-00.44.19:934][376]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-00.44.19:934][376]LogStaticMesh: Building static mesh SM_VoltCore_06...
+[2022.02.11-00.44.19:948][376]LogStaticMesh: Built static mesh [0.01s] /Game/VFX_Toolkit_V1/StaticMeshes/Rings/SM_VoltCore_06.SM_VoltCore_06
+[2022.02.11-00.44.19:954][376]LogStaticMesh: Building static mesh SM_VoltCore_04...
+[2022.02.11-00.44.19:964][376]LogStaticMesh: Built static mesh [0.01s] /Game/VFX_Toolkit_V1/StaticMeshes/Rings/SM_VoltCore_04.SM_VoltCore_04
+[2022.02.11-00.44.19:971][376]LogStaticMesh: Building static mesh SM_VoltCore_07...
+[2022.02.11-00.44.19:979][376]LogStaticMesh: Built static mesh [0.01s] /Game/VFX_Toolkit_V1/StaticMeshes/Rings/SM_VoltCore_07.SM_VoltCore_07
+[2022.02.11-00.44.19:984][376]LogMaterial: Display: Missing cached shadermap for M_VoltCoreMain_01 in PCD3D_SM5, Default, SM5 (DDC key hash: D3EF8B296B986F7704A3CDBEE21BA010B15FBBE4), compiling. 
+[2022.02.11-00.44.19:996][376]LogShaderCompilers: Display: Submitted 24 shader compile jobs with 'Low' priority
+[2022.02.11-00.44.19:998][376]LogStaticMesh: Building static mesh SM_VoltCore_09...
+[2022.02.11-00.44.20:010][376]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2022.02.11-00.44.20:010][376]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 21
+[2022.02.11-00.44.20:010][376]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 18
+[2022.02.11-00.44.20:010][376]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2022.02.11-00.44.20:010][376]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 12
+[2022.02.11-00.44.20:010][376]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2022.02.11-00.44.20:010][376]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2022.02.11-00.44.20:010][376]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.02.11-00.44.20:010][376]LogShaderCompilers: Display: Started 24 'Local' shader compile jobs with 'Low' priority
+[2022.02.11-00.44.20:013][376]LogStaticMesh: Built static mesh [0.02s] /Game/VFX_Toolkit_V1/StaticMeshes/Rings/SM_VoltCore_09.SM_VoltCore_09
+[2022.02.11-00.44.20:019][376]LogMaterial: Display: Missing cached shadermap for MI_VoltCoreMain_01_45 in PCD3D_SM5, Default, SM5 (DDC key hash: 576249B6743BF7559905825A9CB612B9AFF72EFF), compiling. 
+[2022.02.11-00.44.20:040][376]LogStaticMesh: Building static mesh SM_VoltCore_08...
+[2022.02.11-00.44.20:065][376]LogStaticMesh: Built static mesh [0.03s] /Game/VFX_Toolkit_V1/StaticMeshes/Rings/SM_VoltCore_08.SM_VoltCore_08
+[2022.02.11-00.44.20:071][376]LogMaterial: Display: Missing cached shadermap for MI_VoltCoreMain_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 9570C220D923DCE5BB820223979EF277FA725065), compiling. 
+[2022.02.11-00.44.20:084][376]LogShaderCompilers: Display: Submitted 24 shader compile jobs with 'Low' priority
+[2022.02.11-00.44.20:086][376]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 24
+[2022.02.11-00.44.20:086][376]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 21
+[2022.02.11-00.44.20:086][376]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 18
+[2022.02.11-00.44.20:086][376]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 15
+[2022.02.11-00.44.20:086][376]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Low' priority
+[2022.02.11-00.44.20:086][376]LogStaticMesh: Building static mesh SM_VoltCore_02...
+[2022.02.11-00.44.20:100][376]LogStaticMesh: Built static mesh [0.01s] /Game/VFX_Toolkit_V1/StaticMeshes/Rings/SM_VoltCore_02.SM_VoltCore_02
+[2022.02.11-00.44.20:108][376]LogStaticMesh: Building static mesh SM_VoltCore_01...
+[2022.02.11-00.44.20:137][376]LogStaticMesh: Built static mesh [0.03s] /Game/VFX_Toolkit_V1/StaticMeshes/Rings/SM_VoltCore_01.SM_VoltCore_01
+[2022.02.11-00.44.20:148][376]LogStaticMesh: Building static mesh SM_VoltCore_10...
+[2022.02.11-00.44.20:171][376]LogStaticMesh: Built static mesh [0.02s] /Game/VFX_Toolkit_V1/StaticMeshes/Rings/SM_VoltCore_10.SM_VoltCore_10
+[2022.02.11-00.44.20:832][404]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2022.02.11-00.44.20:832][404]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.44.20:917][408]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2022.02.11-00.44.20:917][408]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.44.20:971][410]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2022.02.11-00.44.20:971][410]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.21:102][417]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2022.02.11-00.44.21:102][417]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.21:165][420]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2022.02.11-00.44.21:165][420]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.21:212][422]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.02.11-00.44.21:212][422]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.21:236][423]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2022.02.11-00.44.21:236][423]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.21:262][424]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.02.11-00.44.21:262][424]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2022.02.11-00.44.21:262][424]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.21:295][426]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.02.11-00.44.21:295][426]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.21:328][428]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2022.02.11-00.44.21:328][428]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.21:375][431]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.02.11-00.44.21:375][431]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.30:856][523]LogStaticMesh: Building static mesh SM_vortexian_02...
+[2022.02.11-00.44.30:879][523]LogTexture: Display: Building textures: ThumbnailTexture (OODLE_DXT1, 512X512)
+[2022.02.11-00.44.30:887][523]LogStaticMesh: Built static mesh [0.03s] /Game/VFX_Toolkit_V1/StaticMeshes/Swirls/SM_vortexian_02.SM_vortexian_02
+[2022.02.11-00.44.31:216][523]LogTexture: Display: Building textures: T_Vortexian_01 (OODLE_DXT1, 2048X2048)
+[2022.02.11-00.44.31:216][523]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-00.44.31:216][523]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-00.44.31:216][523]LogMaterial: Display: Missing cached shadermap for M_VortexianLine_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 3964DAEB641F746B1EE3C2405674CB2E28E998E5), compiling. 
+[2022.02.11-00.44.31:229][523]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2022.02.11-00.44.31:235][523]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 28
+[2022.02.11-00.44.31:235][523]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 25
+[2022.02.11-00.44.31:235][523]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2022.02.11-00.44.31:235][523]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2022.02.11-00.44.31:235][523]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 16
+[2022.02.11-00.44.31:235][523]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 13
+[2022.02.11-00.44.31:235][523]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2022.02.11-00.44.31:235][523]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2022.02.11-00.44.31:235][523]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2022.02.11-00.44.31:235][523]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.02.11-00.44.31:235][523]LogShaderCompilers: Display: Started 28 'Local' shader compile jobs with 'Low' priority
+[2022.02.11-00.44.31:235][523]LogStaticMesh: Building static mesh SM_vortexian_01...
+[2022.02.11-00.44.31:253][523]LogStaticMesh: Built static mesh [0.02s] /Game/VFX_Toolkit_V1/StaticMeshes/Rings/SM_vortexian_01.SM_vortexian_01
+[2022.02.11-00.44.31:259][523]LogMaterial: Display: Missing cached shadermap for M_SphericalGradient_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 4028DF2887CADDA13E43DD996D9CE2CF5429F461), compiling. 
+[2022.02.11-00.44.31:280][523]LogShaderCompilers: Display: Submitted 36 shader compile jobs with 'Low' priority
+[2022.02.11-00.44.31:286][523]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 36
+[2022.02.11-00.44.31:286][523]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 32
+[2022.02.11-00.44.31:286][523]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.02.11-00.44.31:825][544]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.02.11-00.44.31:825][544]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.44.32:048][555]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.02.11-00.44.32:048][555]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.44.32:219][563]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.02.11-00.44.32:220][563]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.44.32:220][563]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2022.02.11-00.44.32:220][563]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-00.44.32:288][567]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 24
+[2022.02.11-00.44.32:288][567]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.02.11-00.44.32:441][568]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 21
+[2022.02.11-00.44.32:441][568]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.02.11-00.44.32:523][571]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 19
+[2022.02.11-00.44.32:523][571]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.32:523][571]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2022.02.11-00.44.32:523][571]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.32:545][572]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 15
+[2022.02.11-00.44.32:545][572]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.32:565][573]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2022.02.11-00.44.32:565][573]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.32:597][575]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2022.02.11-00.44.32:597][575]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.32:648][578]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2022.02.11-00.44.32:648][578]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.32:844][588]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2022.02.11-00.44.32:844][588]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.32:957][594]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2022.02.11-00.44.32:957][594]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.33:040][598]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2022.02.11-00.44.33:040][598]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.33:071][600]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2022.02.11-00.44.33:071][600]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.33:071][600]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.02.11-00.44.33:071][600]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.33:115][603]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.02.11-00.44.33:115][603]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.33:147][604]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2022.02.11-00.44.33:147][604]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.02.11-00.44.33:147][604]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.33:182][606]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.02.11-00.44.33:182][606]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-00.44.43:803][822]LogEditorViewport: Clicking on Actor (LMB): Emitter (Par_VoltCore_01)
+[2022.02.11-00.44.59:504][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.11-00.45.00:063][731]LogEditorViewport: Clicking on Actor (LMB): Emitter (Par_Vortexian)
+[2022.02.11-00.45.03:498][134]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.11-00.45.03:507][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-00.45.03:508][134]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 10, 2022, 2:45:03 PM)
+[2022.02.11-00.45.03:538][134]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.02.11-00.45.03:550][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011282s)
+[2022.02.11-00.45.03:551][134]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.02.11-00.45.03:551][134]LogPlayLevel: PIE: World Init took: (0.001231s)
+[2022.02.11-00.45.03:551][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012690s)
+[2022.02.11-00.45.03:568][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.02.11-00.45.03:575][134]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.02.11-00.45.03:575][134]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-00.45.03:575][134]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-00.45.03:575][134]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-00.45.03:575][134]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-00.45.03:575][134]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-00.45.03:575][134]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-00.45.03:575][134]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-00.45.03:575][134]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-00.45.03:575][134]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.11-00.45.03:575][134]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.11-00.45.03:575][134]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.11-00.45.03:576][134]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-00.45.03:584][134]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-00.45.03:584][134]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-00.45.03:594][134]LogAudioMixer: Display: Using Audio Device DELL U2720Q (2- NVIDIA High Definition Audio)
+[2022.02.11-00.45.03:594][134]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-00.45.03:594][134]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-00.45.03:594][134]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-00.45.03:594][134]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-00.45.03:594][134]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.11-00.45.03:594][134]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.11-00.45.03:595][134]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.11-00.45.03:595][134]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.11-00.45.03:595][134]LogInit: FAudioDevice initialized.
+[2022.02.11-00.45.03:595][134]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonExampleMap'.
+[2022.02.11-00.45.03:606][134]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.11-00.45.03:608][134]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.02.10-19.45.03
+[2022.02.11-00.45.03:609][134]LogWorld: Bringing up level for play took: 0.001791
+[2022.02.11-00.45.03:609][134]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.02.11-00.45.03:611][134]PIE: Server logged in
+[2022.02.11-00.45.03:612][134]PIE: Play in editor total start time 0.105 seconds.
+[2022.02.11-00.46.01:660][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-00.46.01:660][ 91]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.02.11-00.46.01:660][ 91]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-00.46.01:660][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-00.46.01:672][ 91]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-00.46.01:681][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-00.46.01:685][ 91]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.11-00.46.01:686][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-00.46.01:687][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-00.46.01:689][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-00.46.01:691][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.02.11-00.46.01:745][ 92]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.02.11-00.46.02:990][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.02.11-00.46.03:772][217]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220210/Saved/ThirdPersonExampleMapD90CA4F948337AD2836CB4B3BD6BB25C.tmp' to 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220210/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.02.11-00.46.04:357][217]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220210/Saved/ThirdPersonExampleMap_BuiltData376E02AC45E9C561E2BA1E80F5F01B0C.tmp' to 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220210/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.02.11-00.46.04:392][217]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.11-00.46.04:392][217]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.02.11-00.46.04:392][217]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.07:616][546]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at '//banner.main.ad.rit.edu/students/kft3635/IGMProfile/Documents/GitHub/IGME797'
+[2022.02.11-00.46.08:007][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.02.11-00.46.09:375][546]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220210/Saved/ThirdPersonExampleMap217CC4894766AC621FF865A5177AB42B.tmp' to 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220210/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.02.11-00.46.09:423][546]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.420
+[2022.02.11-00.46.15:116][546]LogSlate: Window 'Submit Files' being destroyed
+[2022.02.11-00.46.17:313][546]LogSourceControl: commit successful: [main b0cd89f] Placed stuff into the scene
+[2022.02.11-00.46.17:412][546]SourceControl: [main b0cd89f] Placed stuff into the scene
+[2022.02.11-00.46.17:412][546]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2022.02.11-00.46.17:417][546]SourceControl: Commited [main b0cd89f] Placed stuff into the scene.
+[2022.02.11-00.46.17:465][547]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.02.11-00.46.17:465][547]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
