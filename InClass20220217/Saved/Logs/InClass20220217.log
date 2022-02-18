@@ -1162,3 +1162,32 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.18-01.57.28:161][  0]LogSlate: Took 0.005228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2022.02.18-01.57.28:162][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2022.02.18-01.57.28:257][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2022.02.18-01.57.28:362][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.18-01.57.28:362][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.02.18-01.57.28:362][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.02.18-01.57.28:362][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.02.18-01.57.28:362][  0]LogLoad: (Engine Initialization) Total time: 48.21 seconds
+[2022.02.18-01.57.28:362][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.18-01.57.28:435][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2022.02.18-01.57.28:435][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.02.18-01.57.28:473][  0]LogAssetRegistry: Asset discovery search completed in 41.3905 seconds
+[2022.02.18-01.57.28:478][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.02.18-01.57.28:478][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.18-01.57.28:561][  2]LogDirectoryWatcher: Display: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220217/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2022.02.18-01.57.28:561][  2]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [87] Handle [0000000000000CF0], Path [Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220217/Content/] 
+[2022.02.18-01.57.28:597][  2]LogDirectoryWatcher: Display: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220217/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2022.02.18-01.57.28:597][  2]LogDirectoryWatcher: Display: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220217/Content/Developers/kft3635/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2022.02.18-01.57.28:597][  2]LogDirectoryWatcher: Display: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220217/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2022.02.18-01.57.28:619][  3]LogDirectoryWatcher: Display: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220217/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2022.02.18-01.57.28:619][  3]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [87] Handle [00000000000016C4], Path [Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220217/Saved/Collections/] 
+[2022.02.18-01.57.28:628][  3]LogDirectoryWatcher: Display: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220217/Content/Developers/kft3635/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2022.02.18-01.57.28:628][  3]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [87] Handle [00000000000016CC], Path [Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220217/Content/Developers/kft3635/Collections/] 
+[2022.02.18-01.57.28:629][  3]LogDirectoryWatcher: Display: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220217/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2022.02.18-01.57.28:629][  3]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [87] Handle [0000000000001594], Path [Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220217/Content/Collections/] 
+[2022.02.18-01.58.41:669][454]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.18-01.58.41:698][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.02.18-01.59.30:981][454]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220217/Saved/ThirdPersonExampleMap10677F3C48A212B1A8D4CEB083B13CFC.tmp' to 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220217/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.02.18-01.59.35:847][454]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220217/Saved/ThirdPersonExampleMap_BuiltDataDAE3662748CDD2F6A167F397323F32E2.tmp' to 'Z:/IGMProfile/Documents/GitHub/IGME797/InClass20220217/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.02.18-01.59.36:612][454]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.18-01.59.36:612][454]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.02.18-01.59.36:612][454]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
