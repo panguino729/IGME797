@@ -898,3 +898,66 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.13-18.24.47:470][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.04.13-18.25.00:000][287]LogSlate: Window 'Message Log' being destroyed
 [2022.04.13-18.25.00:005][287]LogSlate: Window 'Message Log' being destroyed
+[2022.04.13-18.26.17:086][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.04.13-18.26.18:716][195]MapCheck: New page: Map Check
+[2022.04.13-18.26.18:734][195]LightingResults: New page: Lighting Build - Apr 13, 2022, 10:26:18 AM
+[2022.04.13-18.26.18:759][195]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.04.13-18.26.18:804][195]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.04.13-18.26.18:814][195]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.04.13-18.26.19:346][195]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.04.13-18.26.19:346][195]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6624
+[2022.04.13-18.26.24:670][195]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.04.13-18.26.24:670][195]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.04.13-18.26.24:670][195]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.04.13-18.26.24:670][195]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.04.13-18.26.24:670][195]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.04.13-18.26.24:797][195]LogEditorBuildUtils: Build time 0:06
+[2022.04.13-18.26.24:874][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.13-18.26.26:972][316]Job is a success!
+[2022.04.13-18.26.27:053][318]LogSlate: Took 0.008803 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.13-18.26.27:101][318]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2022.04.13-18.26.27:101][318]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.04.13-18.26.27:101][318]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.04.13-18.26.27:101][318]LogVolumetricLightmapImport:      Bricks at depth
+[2022.04.13-18.26.27:101][318]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2022.04.13-18.26.27:101][318]LogVolumetricLightmapImport:          1: 9.1% covering 6.2% of volume
+[2022.04.13-18.26.27:101][318]LogVolumetricLightmapImport:          2: 88.6% covering 1.0% of volume
+[2022.04.13-18.26.27:101][318]LogVolumetricLightmapImport:      Bricks in each level
+[2022.04.13-18.26.27:101][318]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 44 bricks 	 100.0% (Persistent Level)
+[2022.04.13-18.26.27:279][318]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2022.04.13-18.26.27:279][318]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.04.13-18.26.27:279][318]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 512X512)
+[2022.04.13-18.26.27:279][318]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 512X256)
+[2022.04.13-18.26.27:279][318]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.04.13-18.26.27:279][318]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 64X32)
+[2022.04.13-18.26.27:279][318]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 512X512)
+[2022.04.13-18.26.27:279][318]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 64X64)
+[2022.04.13-18.26.27:279][318]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 64X64)
+[2022.04.13-18.26.27:279][318]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.13-18.26.27:279][318]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.13-18.26.27:279][318]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.13-18.26.27:279][318]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2022.04.13-18.26.27:358][318]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2022.04.13-18.26.27:358][318]Lightmass on KATS-DESKTOP: 1.71 sec total, 140 ms importing, 12 ms setup, 366 ms photons, 1.14 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 35.4 sec total, 1.97 sec processing.
+[2022.04.13-18.26.27:358][318]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 12 meshes in 3 LightmapResourceClusters (4.0 Meshes per cluster).
+[2022.04.13-18.26.27:365][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.04.13-18.26.27:396][318]LogStaticLightingSystem: Illumination: 8.61 sec (58 ms encoding lightmaps, 160 ms encoding shadowmaps)
+[2022.04.13-18.26.27:397][318]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2022.04.13-18.26.27:397][318]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.04.13-18.26.27:674][318]DumpUnbuiltLightIteractions
+[2022.04.13-18.26.27:674][318]Lights with unbuilt interactions: 0
+[2022.04.13-18.26.27:674][318]
+[2022.04.13-18.26.27:674][318]Primitives with unbuilt interactions: 0
+[2022.04.13-18.26.27:725][318]LogTexture: Display: Building textures: NewReflectionComponentTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2022.04.13-18.26.27:751][319]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.04.13-18.26.27:751][319]MapCheck: New page: ThirdPersonExampleMap - Apr 13, 2022, 10:26:27 AM
+[2022.04.13-18.26.27:752][319]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.164ms to complete.
+[2022.04.13-18.26.34:142][ 40]SourceControl: Source control is disabled
+[2022.04.13-18.26.34:142][ 40]LogSlate: Window 'Source Control Login' being destroyed
+[2022.04.13-18.26.35:281][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.04.13-18.26.35:297][172]LogSavePackage: Moving 'D:/Users/pangu/Documents/GitHub/IGME797/FinalProject/Saved/ThirdPersonExampleMap41B689674ABC056BA4E36EB154FC271B.tmp' to 'D:/Users/pangu/Documents/GitHub/IGME797/FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.04.13-18.26.35:328][172]LogSavePackage: Moving 'D:/Users/pangu/Documents/GitHub/IGME797/FinalProject/Saved/ThirdPersonExampleMap_BuiltDataFAF752CE41923CEBC6A33691FB1C704E.tmp' to 'D:/Users/pangu/Documents/GitHub/IGME797/FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.04.13-18.26.35:338][172]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.13-18.26.35:338][172]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.04.13-18.26.35:338][172]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.04.13-18.26.36:647][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
